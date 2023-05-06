@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zadanie4_3</string>
+    <string name="button">button</string>
+    <string name="faction">Фракции</string>
+    <string name="add">add</string>
+    <string name="Name">Название заметки</string>
+    <string name="desc">Описание заметки</string>
+    <string name="nameIn">Введите название заметки</string>
+    <string name="descIn">Введите описание</string>
+    <string name="descCreate">Создать заметку</string>
+    <string name="reload">Обновить</string>
+    <string name="delete">Удалить</string>
+    <string name="xenos">Список имплантатов</string>
+</resources>
